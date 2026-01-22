@@ -26,7 +26,7 @@ El modelo se divide en tres componentes principales:
 
 ## 📊 Visualizaciones y Resultados
 
-El repositorio incluye varios métodos de evaluación cualitativa exigidos en entornos académicos y profesionales:
+El repositorio incluye varios métodos de evaluación cualitativa:
 
 ### 1. Generación por Categoría
 Muestra una matriz de 10x10 donde cada fila representa una categoría de Fashion-MNIST (camisetas, botas, bolsos, etc.) generada a partir de ruido aleatorio.
@@ -48,5 +48,5 @@ Transición suave entre etiquetas. Por ejemplo, la transformación gradual de un
 
 1. **Clonar repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/fashion-cvae.git](https://github.com/tu-usuario/fashion-cvae.git)
+   git clone [https://github.com/Yushetf33/fashion-cvae.git](https://github.com/Yushetf33/fashion-cvae.git)
    cd fashion-cvae
