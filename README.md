@@ -1,0 +1,2 @@
+# Fashion-CVAE-Generaci-n-Condicionada-de-Prendas-de-Ropa
+Este repositorio contiene la implementación de un Autoencoder Variacional Condicional (CVAE) desarrollado en PyTorch para la síntesis de imágenes de moda. El modelo utiliza el dataset Fashion-MNIST, permitiendo generar de forma controlada 10 tipos distintos de prendas (camisetas, botas, vestidos, etc.) manipulando un espacio latente continuo.
