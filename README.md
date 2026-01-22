@@ -30,18 +30,22 @@ El repositorio incluye varios métodos de evaluación cualitativa:
 
 ### 1. Generación por Categoría
 Muestra una matriz de 10x10 donde cada fila representa una categoría de Fashion-MNIST (camisetas, botas, bolsos, etc.) generada a partir de ruido aleatorio.
+
 ![Generación por categoría](img/generacion-por-categoria.png)
 
 ### 2. Reducción de Dimensionalidad (t-SNE)
 Proyección del espacio latente de alta dimensión a 2D para observar cómo el modelo agrupa de forma natural las prendas similares (ej. calzado agrupado lejos de prendas superiores).
+
 ![Mapa t-SNE de Fashion MNIST](img/espacio-latente.png)
 
 ### 3. Latent Traversal
 Exploración de dimensiones individuales del vector latente para identificar qué atributos físicos (como el largo de las mangas o la inclinación) controla cada variable.
+
 ![Exploración del Vector Latente](img/latent-transversal.png)
 
 ### 4. Morphing entre Clases
 Transición suave entre etiquetas. Por ejemplo, la transformación gradual de una **Zapatilla (clase 7)** a un **Botín (clase 9)**, demostrando la continuidad del espacio aprendido.
+
 ![Morphing entre clases](img/morphing.png)
 
 ---
